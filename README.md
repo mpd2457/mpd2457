@@ -1,6 +1,7 @@
 # Mike D
 
-Show tech and local web apps. Benidorm.
+Live Event Production & Local Web APPS
+Benidorm, Spain
 
 Mostly Python, shell and systemd, self-hosted on my own hardware rather than
 someone else's cloud.
@@ -23,6 +24,3 @@ Apache-2.0.
 
 ## Everything else is private
 
-The other work — a pub quiz app, a blog engine, a Bitfocus Companion setup for the
-show rig, a scooter racing game in progress — is private, because it either belongs
-to the show business or isn't finished enough to be worth looking at.
