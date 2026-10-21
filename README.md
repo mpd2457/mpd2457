@@ -1,7 +1,7 @@
 # Mike D
 
-Live Event Production & Local Web APPS
-Benidorm, Spain
+Live Event Production & Local Web APPS Benidorm,Spain
+Located in The Old Town
 
 Mostly Python, shell and systemd, self-hosted on my own hardware rather than
 someone else's cloud.
